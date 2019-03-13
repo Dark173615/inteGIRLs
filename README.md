@@ -1,5 +1,5 @@
 # inteGIRLs 2019 Grading
-# by Lucinda Zhou
+by Lucinda Zhou
 Grading program (MBMT formula): https://www.hmmt.co/static/scoring-algorithm.pdf
 Apache (Excel files): https://poi.apache.org/
 
