@@ -14,5 +14,8 @@ Requires:
 - In Grading.java, change "FILENAME" and "SHEETNAME" variables to location (and name) of file (with extension) and name of sheet that you want to grade respectively
 - Run Grading.java (go to open project, cntrl + F11)
 
-# Future:
+# Important
+- Before running, be sure to close all excel files that the program is reading/writing to
+
+# Future
 - Will hopefully make program executable without Eclipse/Apache download
