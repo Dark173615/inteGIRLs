@@ -8,6 +8,12 @@
 Requires:
 - Updated version of Java
 
+# Excel file format:
+- data.xmlx is an example
+- Header row: names, then question numbers (1, 2, etc.)
+- First column: full names
+- Other columns: Enter 0 if person got problem wrong, 1 if they got it right
+
 # To get the filepath:
 - Macs:
 	- Navigate to the file 
